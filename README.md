@@ -1,1 +1,1 @@
-# Node-QR Code Generator
+# Node QR Code Generator
