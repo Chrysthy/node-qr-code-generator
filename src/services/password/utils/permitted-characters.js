@@ -1,3 +1,4 @@
+//extract method
 
 async function permittedCharacters() {
 
