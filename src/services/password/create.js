@@ -1,6 +1,5 @@
-import handle from "./handle";
-
-const { default: chalk } = require("chalk");
+import handle from "./handle.js";
+import chalk from "chalk";
 
 async function createPassword() {
     console.log(chalk.blue("Password"));
