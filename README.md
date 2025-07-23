@@ -25,3 +25,16 @@
 <img src=".github/gif-do-projeto.gif" alt="gif do projeto">
 
 <br>
+
+## 🛠 Technologies
+
+- Node.js — JavaScript runtime for building fast and scalable tools;
+- QRCode (npm package) — Library to generate QR codes in image or string format;
+- Promp (npm package) — Synchronous user input from the terminal;
+- Chalk (npm package) — Stylish terminal string styling with colors and emphasis;
+- JavaScript (ES6+) — Clean and modern syntax;
+- npm — Package manager to install and manage project dependencies;
+- Terminal / CLI — To run and execute Node scripts;
+- Git e GitHub
+
+<br>
