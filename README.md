@@ -59,3 +59,7 @@ This project provides a simple and efficient way to generate QR Codes using Node
 <p> Contributions, issues, and feature requests are welcome! Please, feel free to do it! 😉 </p>
 
 <br>
+
+
+## 🌟 Support
+<p> If you like this project, please give it a star ⭐ and share it with others! 😄 </p>
