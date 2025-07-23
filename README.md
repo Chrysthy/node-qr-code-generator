@@ -46,6 +46,12 @@ This project provides a simple and efficient way to generate QR Codes using Node
 <br>
 
 
+## ✨ Features
+
+- Generate secure passwords dynamically;
+- Generate QR Codes from URLs;
+- Interactive command-line interface for easy user input;
+- Colorful and readable terminal output with Chalk.
 
 <br>
 
