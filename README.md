@@ -44,3 +44,13 @@
 This project provides a simple and efficient way to generate QR Codes using Node.js.
 
 <br>
+
+
+
+<br>
+
+## 📜 License
+
+* This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
+
+<br>
